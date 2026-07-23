@@ -71,3 +71,26 @@ Acquired practical knowledge of Layer 2 technologies and their role in building 
 
 ### Outcome
 Successfully implemented a hierarchical enterprise network following Cisco's three-tier architecture and gained practical experience in enterprise network design.
+
+---
+
+## Week 5 – Enterprise Network Design Using Static Routing
+
+### Objectives
+- Design a complete enterprise-level network using routers and switches.
+- Implement Static Routing between multiple networks.
+- Demonstrate the Core, Aggregation, Distribution, and Access layers.
+- Connect both wired and wireless end devices.
+
+### Activities
+- Designed a hierarchical enterprise network using Cisco Packet Tracer.
+- Configured routers with Static Routing to enable communication between different network segments.
+- Implemented the Core Layer as the backbone of the network.
+- Configured the Aggregation Layer to connect the core and distribution networks.
+- Configured the Distribution Layer using switches to aggregate traffic from access networks.
+- Connected the Access Layer with desktop computers, wired laptops, wireless laptops, mobile phones, and wireless access points.
+- Assigned IPv4 addresses and default gateways to all devices.
+- Verified end-to-end connectivity using ICMP (ping) and performed routing verification and troubleshooting.
+
+### Outcome
+Successfully designed and implemented a scalable enterprise network using Static Routing and Cisco's hierarchical network architecture. Gained practical experience in configuring routers, switches, wired and wireless devices, and understanding the responsibilities of the Core, Aggregation, Distribution, and Access layers in an enterprise environment.
